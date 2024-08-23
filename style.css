@@ -1,0 +1,16 @@
+input{
+    width: 200px;
+}
+
+.pcard{
+    border: 1px solid black;
+    width: 220px;
+    padding: 5px;
+    align-content: center;
+    text-align: center;
+    margin: 50px;
+}
+
+img{
+    width: 100px;
+}
